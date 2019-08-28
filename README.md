@@ -1,2 +1,2 @@
-# niiu
-Website for niiu.tk
+# NIIU Web
+Website for NIIU.life 
